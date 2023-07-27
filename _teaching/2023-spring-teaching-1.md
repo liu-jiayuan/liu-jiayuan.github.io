@@ -1,14 +1,15 @@
 ---
-title: "Teaching Assistant in Game Theory course"
+title: "Teaching Assistant in Theory of Computation course"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Institute for Interdisciplinary Information Sciences, Tsinghua University"
-date: 2023-01-01
+date: 2023-01-02
 location: "Beijing, China"
 ---
 
-Teaching Assistant to Prof. Zhixuan Fang in Game Theory course. 
+Teaching Assistant to Prof. Ran Duan in Theory of Computation course. 
+
 
 <!-- Heading 1
 ======
