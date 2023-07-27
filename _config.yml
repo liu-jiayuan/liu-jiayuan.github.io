@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _manuscripts
+  - scope:
+      path: ""
+      type: manuscripts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
