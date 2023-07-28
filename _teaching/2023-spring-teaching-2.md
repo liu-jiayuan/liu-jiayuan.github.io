@@ -8,7 +8,7 @@ date: 2023-01-03
 location: "Beijing, China"
 ---
 
-Teaching Assistant to Prof. Zhixuan Fang in Game Theory course. 
+Teaching Assistant to Prof. Zhixuan Fang in Game Theory course (Tsinghua course ID: 30470154). 
 
 <!-- Heading 1
 ======

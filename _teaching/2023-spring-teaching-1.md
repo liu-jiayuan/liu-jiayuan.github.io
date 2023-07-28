@@ -8,7 +8,7 @@ date: 2023-01-02
 location: "Beijing, China"
 ---
 
-Teaching Assistant to Prof. Ran Duan in Theory of Computation course. 
+Teaching Assistant to Prof. Ran Duan in Theory of Computation course (Tsinghua course ID: 30470134). 
 
 
 <!-- Heading 1
