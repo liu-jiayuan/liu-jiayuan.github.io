@@ -16,3 +16,4 @@ I also had the opportunity to visit <a href="https://econcs.seas.harvard.edu/eco
 I've also gained valuable experience through research internships at Microsoft Research Asia in 2023, hosted by <a href="https://www.microsoft.com/en-us/research/people/siweiwang/">Siwei Wang</a>, and at Shanghai Qizhi Institute in 2021, hosted by Zhixuan Fang. 
 Additionally, I had the pleasure of collaborating closely with <a href="https://engineering.wustl.edu/faculty/Chongjie-Zhang.html">Chongjie Zhang</a>, <a href="https://i.cs.hku.hk/~zhiyi/">Zhiyi Huang</a>, and <a href="https://www.haifeng-xu.com/">Haifeng Xu</a> throughout my undergraduate years. 
 
+Contact: jiayuan4 at andrew.cmu.edu
