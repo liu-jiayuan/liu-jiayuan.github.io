@@ -14,5 +14,16 @@ I completed my undergraduate studies at the Institute for Interdisciplinary Info
 
 Contact: jiayuan4 at andrew.cmu.edu
 
+<style>
+#clustrmaps {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100px; 
+    height: 100px; 
+    opacity: 0.5; 
+    z-index: 1000; 
+}
+</style>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O1d7qFryo-NBA2XzRbl_1FyXM7mYnhld8z7E8MgbIWM&cl=ffffff&w=a"></script>
