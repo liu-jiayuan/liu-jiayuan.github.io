@@ -8,7 +8,7 @@ date: 2024-09-01
 location: "Pittsburgh, PA, USA"
 ---
 
-Teaching Assistant to Prof. Zhixuan Fang in Game Theory Course (Tsinghua Course ID: 30470154). 
+Teaching Assistant to Prof. Vincent Conitzer in Computational Microeconomics Course (CMU Course ID: 15-326). 
 
 <!-- Heading 1
 ======
