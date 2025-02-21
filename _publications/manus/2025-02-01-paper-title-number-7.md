@@ -1,9 +1,9 @@
 ---
 title: "An Interpretable Automated Mechanism Design Framework with Large Language Models"
 collection: 'manuscripts'
-permalink: /publication/2025-01-01-paper-title-number-7
+permalink: /publication/2025-02-01-paper-title-number-7
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-01-01
+date: 2025-02-01
 venue: 'Manuscript'
 paperurl: 'https://arxiv.org/abs/2502.12203'
 pub_authors: 'Jiayuan Liu, Mingyu Guo, Vincent Conitzer'
