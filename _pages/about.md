@@ -14,7 +14,7 @@ I completed my undergraduate studies at the Institute for Interdisciplinary Info
 
 Contact: jiayuan4 at andrew.cmu.edu
 
-<style>
+<!-- <style>
 #clustrmaps {
     position: fixed;
     bottom: 0;
@@ -26,4 +26,4 @@ Contact: jiayuan4 at andrew.cmu.edu
 }
 </style>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O1d7qFryo-NBA2XzRbl_1FyXM7mYnhld8z7E8MgbIWM&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O1d7qFryo-NBA2XzRbl_1FyXM7mYnhld8z7E8MgbIWM&cl=ffffff&w=a"></script> -->
