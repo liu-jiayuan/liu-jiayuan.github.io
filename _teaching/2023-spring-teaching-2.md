@@ -1,7 +1,6 @@
 ---
 title: "Teaching Assistant in Game Theory Course"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-2
 venue: "Institute for Interdisciplinary Information Sciences, Tsinghua University"
 date: 2023-01-03
