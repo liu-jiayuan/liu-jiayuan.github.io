@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I am a third-year Ph.D. student in the <a href="https://csd.cmu.edu/">Computer Science Department</a> at Carnegie Mellon University and a member of the <a href="https://www.cs.cmu.edu/~focal/">Foundations of Cooperative AI Lab</a>. I am fortunate to be advised by <a href="https://www.cs.cmu.edu/~conitzer/">Vincent Conitzer</a>. 
 
 My research focuses on designing incentive-aware AI systems by bridging Game Theory and Large Language Models. Specifically, I develop frameworks for generative advertising, agentic workflow optimization, automated mechanism design, and multi-agent coordination to ensure that AI/LLM ecosystems are efficient, truthful, and economically sustainable.
 
