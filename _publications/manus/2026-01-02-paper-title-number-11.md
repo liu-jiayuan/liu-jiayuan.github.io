@@ -3,7 +3,7 @@ title: "The Consensus Trap: Rescuing Multi-Agent LLMs from Adversarial Majoritie
 collection: 'publications'
 permalink: /publication/2026-01-02-paper-title-number-11
 excerpt:
-date: 2026-04-03
+date: 2026-09-01
 venue: 'Manuscript'
 paperurl: 'https://arxiv.org/abs/2604.17139'
 pub_authors: 'Jiayuan Liu, Shiyi Du, Weihua Du, Mingyu Guo, Vincent Conitzer'
