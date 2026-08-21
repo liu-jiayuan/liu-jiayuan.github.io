@@ -3,8 +3,8 @@ title: "Incentive-Aware Multi-Fidelity Optimization for Generative Advertising i
 collection: 'publications'
 permalink: /publication/2025-03-02-paper-title-number-9
 excerpt:
-date: 2026-10-01
-venue: 'the third Conference on Language Modeling (COLM)'
+date: 2026-10-03
+venue: 'Published in <i>the third Conference on Language Modeling (COLM)</i>'
 paperurl: 'https://arxiv.org/abs/2604.06263'
 pub_authors: 'Jiayuan Liu, Barry Wang, Jiarui Gan, Tonghan Wang, Leon Xie, Mingyu Guo, Vincent Conitzer'
 ---
