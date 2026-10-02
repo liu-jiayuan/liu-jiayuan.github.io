@@ -8,13 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the <a href="https://csd.cmu.edu/">Computer Science Department</a> at Carnegie Mellon University and a member of the <a href="https://www.cs.cmu.edu/~focal/">Foundations of Cooperative AI Lab</a>. I am fortunate to be advised by <a href="https://www.cs.cmu.edu/~conitzer/">Vincent Conitzer</a>. 
+I am a fourth-year Ph.D. student in the <a href="https://csd.cmu.edu/">Computer Science Department</a> at Carnegie Mellon University and a member of the <a href="https://www.cs.cmu.edu/~focal/">Foundations of Cooperative AI Lab</a>, advised by <a href="https://www.cs.cmu.edu/~conitzer/">Vincent Conitzer</a>.
 
-My research focuses on designing incentive-aware AI systems by bridging Game Theory and Large Language Models. Specifically, I develop frameworks for generative advertising, agentic workflow optimization, automated mechanism design, and multi-agent coordination to ensure that AI/LLM ecosystems are efficient, truthful, and economically sustainable.
+My research focuses on **multi-agent LLM systems**: how to make LLMs **cooperate and coordinate** effectively within a system, and how to keep such systems **efficient, truthful, and economically sustainable**. I combine LLM research with game theory and mechanism design to study how incentives and strategic behavior shape what LLM agents do. Recent directions include:
+{: .about-lead}
 
-I completed my undergraduate studies at the Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn/en/yaoclass/">Yao Class</a>) at Tsinghua University, where I was advised by <a href="https://people.iiis.tsinghua.edu.cn/~fang/">Zhixuan Fang</a>. In 2022, I visited the Harvard EconCS Group under the guidance of <a href="https://yiling.seas.harvard.edu/">Yiling Chen</a>. I also had research experience through internships at Microsoft Research Asia in 2023, hosted by <a href="https://www.microsoft.com/en-us/research/people/siweiwang/">Siwei Wang</a>, and at Shanghai Qizhi Institute in 2021, hosted by Zhixuan Fang. 
+- **Cooperation and coordination among LLM agents**: how memory and post-training affect cooperation among LLM agents (<a href="https://arxiv.org/abs/2605.08060">Memory Curse</a>), and how to keep multi-agent collaboration robust against adversarial majorities (<a href="https://arxiv.org/abs/2604.17139">Consensus Trap</a>).
+- **Incentive-aware agentic systems**: truthful model routing and agentic workflow design (<a href="https://openreview.net/pdf?id=SHuTHWYwp7">Truthful Routing</a>, <a href="https://arxiv.org/abs/2604.25012">EMNLP 2026</a>).
+- **LLMs meet mechanism design**: generative advertising in LLMs (<a href="https://openreview.net/pdf?id=HTA9pvPV9E">COLM 2026</a>) and automated mechanism design (<a href="https://arxiv.org/abs/2502.12203">EC 2025 Workshop</a>, <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-73903-3.pdf#page=299">NeurIPS 2026</a>).
 
-Contact: jiayuan4@andrew.cmu.edu
+**Education.** I received my undergraduate degree from the Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn/en/yaoclass/">Yao Class</a>) at Tsinghua University, advised by <a href="https://people.iiis.tsinghua.edu.cn/~fang/">Zhixuan Fang</a>. In 2022, I visited the Harvard EconCS Group, hosted by <a href="https://yiling.seas.harvard.edu/">Yiling Chen</a>.
+
+**Industry Research Internship Experiences.**
+{: .about-lead}
+
+- **2026**, <a href="https://seed.bytedance.com/en/">ByteDance Seed-LLM</a> (San Jose): LLM post-training and real-time agents.
+- **2023**, Microsoft Research, hosted by <a href="https://www.microsoft.com/en-us/research/people/siweiwang/">Siwei Wang</a>.
+- **2021**, Shanghai Qizhi Institute, hosted by <a href="https://people.iiis.tsinghua.edu.cn/~fang/">Zhixuan Fang</a>.
+
+**I am always happy to discuss research and open to collaborations — feel free to reach out!**
+
+Contact: jiayuan4@cs.cmu.edu
+
+<style>
+.page__content p.about-lead { margin-bottom: 0.4em; }
+.page__content p.about-lead + ul { margin-top: 0; margin-bottom: 1.3em; }
+.page__content p.about-lead + ul li { margin-bottom: 0.35em; }
+</style>
 
 <!-- <style>
 #clustrmaps {

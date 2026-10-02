@@ -3,7 +3,7 @@ title: "Birds of a Feather Flock Together: A Close Look at Cooperation Emergence
 collection: 'manuscripts'
 permalink: # /publication/2022-01-01-paper-title-number-5
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-01-01
+date: 2021-04-01
 venue: 'Manuscript'
 paperurl: 'https://arxiv.org/abs/2104.11455'
 pub_authors: 'Heng Dong, Tonghan Wang, Jiayuan Liu, Chi Han, Chongjie Zhang'
